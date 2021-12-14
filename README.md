@@ -1,7 +1,7 @@
 # 🖐 Olá, como vai? <br> *🖐 Hello, how are you?*
 
 ### Esse e apenas um curso de JavaScript básico para iniciantes, feito na instituição CursoemVídeo. Mas, caso queira dar uma olhada, fique a vontade! 😀
-### *This is only a JavaScript basic course for beginners, make by institution Curso em Vídeo. But, if you want to take a look, feel free! 😄* 
+### *This is only basic JavaScript course for beginners, make by institution Curso em Vídeo. But, if you want to take a look, feel free! 😄* 
 
 ## 📧 Caso você queira conversar, me envie um e-mail: <br> *📧 If you want to talk to me, send me an e-mail:* 
   <div>
