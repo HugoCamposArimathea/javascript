@@ -1,5 +1,7 @@
 let txt = document.getElementById('txt');
-for (let i=0; i <= 18; i+=3) {
+let i=0;
+while (i<=18) {
     txt.innerHTML += i + " - ";
+    i+=3;
 };
 txt.innerHTML += "Acabou!";
